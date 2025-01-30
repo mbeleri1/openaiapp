@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://today.usc.edu/wp-content/uploads/2024/07/openart-image_9lX4CIya_1719932723629_raw-768x432.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
